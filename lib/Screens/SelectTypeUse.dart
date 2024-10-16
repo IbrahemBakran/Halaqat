@@ -37,7 +37,7 @@ class _SelectTypeUse extends State<SelectTypeUse> {
                           decoration: BoxDecoration(
                             borderRadius: BorderRadius.circular(0),
                           ),
-                          child: Align(child: Text (" تسجيل الدخول كـ ",style: TextStyle(color: Colors.black,fontSize: 40,fontFamily: 'Sans',),)),
+                          child: const Align(child: Text (" تسجيل الدخول كـ ",style: TextStyle(color: Colors.black,fontSize: 40,fontFamily: 'Sans',),)),
                         ),
                       ),
                       const SizedBox(height: 20),
