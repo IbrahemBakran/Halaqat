@@ -1,0 +1,17 @@
+import 'package:flutter/material.dart';
+
+class Student extends StatefulWidget {
+  const Student({super.key});
+
+  @override
+  State<Student> createState() => _StudentState();
+}
+
+class _StudentState extends State<Student> {
+  @override
+  Widget build(BuildContext context) {
+    return const Placeholder(
+      child: MaterialApp(home:Scaffold(body: Center(child: Text("Student"),),) ),
+    );
+  }
+}
