@@ -1,6 +1,7 @@
 # halaqatapp
 
-A new Flutter project.
+
+
 There's a gap between the Quranic Halaqat teacher and the student's parent , Where the
 student's parent is not able to follow up on his son's memorization and review, and keep
 track of his absence and attendance in the Halaqa . Furthermore there is difficulty in
