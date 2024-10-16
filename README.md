@@ -1,16 +1,16 @@
 # halaqatapp
 
 A new Flutter project.
+There's a gap between the Quranic Halaqat teacher and the student's parent , Where the
+student's parent is not able to follow up on his son's memorization and review, and keep
+track of his absence and attendance in the Halaqa . Furthermore there is difficulty in
+continuous communication and sending notes between the Quranic Halaqat teacher and the
+student's parent .
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Objectives
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### The objectives of this project is:-
+• To build mobile application support parents to monitoring their children.
+• To view the general activities of the Halaqat.
+• To improve the relationship between the halaqa teacher and the student's parent.
